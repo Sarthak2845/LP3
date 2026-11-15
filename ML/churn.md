@@ -108,7 +108,7 @@ An Artificial Neural Network consists of three main layers:
 2. Hidden Layer
 3. Output Layer
 
-[Artificial Neural Network (인공신경망)](https://images.openai.com/static-rsc-4/cmBAaCS-_tes94UWy7ONCh5r0TFrpqtiNI3URNe0UqirV2R09GPZDY7l-hsUwh_qaiv3eOSwrIpO4CUvga16XehqHQouZ7qt4H1jLur_fF1U7I247LNMrBmPJGoNmFKJLUP8W4yKiIzNXv7ILtOasMbPBUTkGhVP8vgh7ycvL5c?purpose=inline)
+![alt text](image.png)
 
 [yjjo.tistory.com](https://yjjo.tistory.com/5?utm_source=chatgpt.com)
 

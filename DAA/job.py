@@ -34,3 +34,10 @@ job_sequencing(jobs)
 # Final Answer (for exam):
 # - TC: \(O(N\log N + N \times D)\)
 # - SC: \(O(D)\)
+# Steps of Greedy Algorithm:
+# 1. Sort all jobs in decreasing order of profit.
+# 2. Find the maximum deadline among all jobs.
+# 3. Create empty time slots up to the maximum deadline.
+# 4. Select jobs one by one according to their profit.
+# 5. Place each job in the latest available slot before its deadline.
+# 6. Calculate the total profit of all scheduled jobs.
